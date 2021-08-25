@@ -9,7 +9,7 @@ const roller = document.querySelector("#roller")
 
 instruction.addEventListener("click",
 function(){
-    window.alert("This is a dice game. When a player clicks on the button, a random number get's displayed on his square. Player1 starts the game. The player who's score gets more than 25 wins the game!!! Try it out!!! It is a ll about luck. Do not get sad when you lose the game. Keep trying again until you succeed. Best of luck!!!")
+    window.alert("This is a dice game. When a player clicks on the button, a random number get's displayed on his square. Player1 starts the game. The player who's score gets more than 25 wins the game!!! Try it out!!! It is all about luck. Do not get sad when you lose the game. Keep trying again until you succeed. Best of luck!!!")
 })
 
 let player = true
